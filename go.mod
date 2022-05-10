@@ -1,4 +1,4 @@
-module github.com/alvaroloes/enumer
+module github.com/natu0710/enumer
 
 go 1.12
 
